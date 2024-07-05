@@ -25,4 +25,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/valuin/leetcode/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/valuin/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/valuin/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
