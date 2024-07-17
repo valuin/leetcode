@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/valuin/leetcode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/valuin/leetcode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/valuin/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/valuin/leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/valuin/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
